@@ -24,13 +24,13 @@
   },
   "homepage": "https://github.com/kevincharm/parcel-plugin-web-extension#readme",
   "devDependencies": {
-    "cross-env": "^5.1.6",
-    "mocha": "^5.2.0"
+    "cross-env": "^6.0.3",
+    "mocha": "^6.2.1"
   },
   "dependencies": {
     "@parcel/fs": "^1.11.0",
     "fast-glob": "^2.2.2",
-    "parcel-bundler": "^1.9.0",
-    "upath": "^1.1.2"
+    "parcel-bundler": "^1.12.4",
+    "upath": "^1.2.0"
   }
 }
